@@ -13,17 +13,17 @@ This project is a console application for managing course information for academ
    git clone https://github.com/YourUsername/CS300_Project.git
    
 2. Navigate to the project directory:
- ```sh
+   ```sh
    Copy code
-cd CS300_Project
+   cd CS300_Project
 
 4. Compile the code:
    ```sh
    Copy code
-g++ -o CS300_Project ProjectTwo.cpp
+   g++ -o CS300_Project ProjectTwo.cpp
 
 5. Run the application:
    ```sh
    Copy code
-./CS300_Project
-Interact with the application by following the menu options provided.
+   ./CS300_Project
+   Interact with the application by following the menu options provided.
